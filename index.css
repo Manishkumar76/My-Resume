@@ -1,0 +1,157 @@
+.contaner{
+ width: 76%;
+ margin: auto;
+  display: block;
+   align-items: center;
+   padding:20px ;
+   background-image: url("https://images.unsplash.com/photo-1635545195955-e65d68631341?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80");
+   background-size: 100%;
+}
+.upper{
+    height:50%;
+    
+    display: flex ;
+    flex-direction: row;
+}
+
+.img img{
+    margin: 20px 100px;
+    width:50%;
+    
+    box-shadow: 1px -4px 4px -2px  sandybrown;
+    border-radius:70%;
+   
+}
+.img{
+    margin-top:10px ;
+    width:30%;
+   
+   
+
+}
+
+.text{
+   margin:18px;
+    font-weight: 100%;
+    font-size: large;
+
+}
+.Name{
+    margin-top:40px;
+    margin-bottom: 0;
+    color: rgb(3, 3, 72);
+}
+
+    .obj{
+        position: relative;
+       
+    }
+.line{
+    position: absolute;
+    width: 900px;
+    left: 15%;
+    top: 0%;
+    background-color: black;
+    height: 2px;
+   
+}
+ .object_heading{
+
+
+font-size: large;
+color: rgb(3, 3, 72);
+
+
+}
+.p{
+    position: relative;
+    
+    font-size: large;
+    margin-left: 15%; 
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 84%;
+}
+.p1{
+    
+    font-size: large;
+}
+.obj1{
+    display: flex;
+}
+td{
+    padding: 0;
+
+}
+.p2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+    margin-left: 15%; 
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
+.r{
+    position: relative;
+    width: 150px;
+    height:15px ;
+    border-radius:34px ;
+    
+    background-color:aliceblue;
+   
+} 
+div1{
+    position: absolute;
+    width: 120px;
+    height:15px ;
+    border-radius:34px ;
+   color: white;
+   text-align: right;
+   padding-right: 10px;
+    background-color:rgb(3, 3, 72);
+    padding-top: 0;
+    margin: 0;
+}
+.row{
+    display: flex;
+    display: row; 
+    
+}
+.row div{
+    margin: 0px 12px;
+}
+ div2{
+    position: absolute;
+    width: 150px;
+    height:15px ;
+    border-radius:34px ;
+   color: white;
+   text-align: right;
+   padding-right: 8px;
+    background-color: rgb(3, 3, 72);
+    padding-top: 0;
+    margin: 0;
+ }
+ .p2 p{
+    margin: 0;
+ }
+
+ .line1{
+    position: absolute;
+    width: 900px;
+    left: 15%;
+    top: 0%;
+    background-color: black;
+    height: 2px;
+   
+}
+td .p .head li{ 
+    width: 144%;
+}
+td p{
+    width: 144%;
+}
